@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 <!-- {% include base_path %} -->
-Download Full CV [here]()
+Download Full CV here.
+
+
 Education
 ======
 * B.Tech. in Computer Science, Galgotias University, 2015
@@ -53,11 +55,11 @@ Skills and expertise
   * Social Networking
 
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
 
 
 Blog Posts
@@ -65,7 +67,7 @@ Blog Posts
   * Natural Language Processing Application: Earth Observation and Event Detection, read more [here](https://iabg-ai.medium.com/natural-language-processing-application-earth-observation-and-event-detection-62d7c17fe796)
 
 
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
@@ -74,4 +76,4 @@ Teaching
 
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
