@@ -7,13 +7,13 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
+<!-- {% include base_path %} -->
+Download Full CV [here]()
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech. in Computer Science, Galgotias University, 2015
+* M.Ss. in Informatics, Technical university of Munich, 2020
+* Ph.D in Informatics, IMPRS-IS and University of Stuttgart, 2025 (expected)
 
 Work experience
 ======
@@ -26,34 +26,52 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
-Skills
+
+Skills and expertise
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Informatics
+  * Natural Language Processing
+  * Machine Learning
+  * Deep Learning
+  * Graph Analysis
+  * Human Computer Interaction
+  * Data Visualisation
+  * Data Mining and Knowledge Discovery
+  * Information Diffusion
+  * Network Science
+  * Data Science
+  * Business Intelligence
+  * Sentiment Analysis
+  * Information Society
+
+* Social Sciences
+  * Social Network Analysis
+  * Social Simulation
+  * Social Computing
+  * Computational Social Science
+  * Computational Sociology
+  * Social Networking
+
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+
+
+Blog Posts
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+  * Natural Language Processing Application: Earth Observation and Event Detection, read more [here](https://iabg-ai.medium.com/natural-language-processing-application-earth-observation-and-event-detection-62d7c17fe796)
+
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
