@@ -19,15 +19,34 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2023: PhD Candidate
+  * IMPRS-IS and University of Stuttgart
+  * Supervisor: Dr. Ksenia Keplinger and Dr. Michael Sedlmair
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Winter 2020: Data Scientist
+  * IABG mbh, Munich (Germany)
+  * Duties included: using NLP methods to solve problems in the field of Social Science
+  * Tools and Methods: Python, Atlassian, Flask, Gephi
+
+* Fall 2020: M.Sc in Informatics
+  * Technical University of Munich, Munich (Germany)
+  * Specialisation: Deep Learning and Machine Learning with a significant focus on Natural Language Processing
+  * Master's Thesis Supervisor: Professor Dr. Bjoern Menze
+
+* 2018 to 2020: Data Engineer
+  * Amazon, Munich (Germany)
+  * Duties included: Data Analysis of Business Metrics
+  * Tools and Methods: SQL, Tableau, MS-Excel, Python
+
+* 2015 to 2017: Data Analyst
+  * Cognizant Technology Solutions, Pune (India)
+  * Duties included: Data Analysis and Visualisation for BI Applications
+  * Tools and Methods: Power BI, Tableau, QlickView, Python, SQL
+
+* 2011 to 2015: B.Tech in Computer Science
+  * Galgotias University, Greater Noida (India)
+  * Gold Medallist of my batch
+
 
 Skills and expertise
 ======
