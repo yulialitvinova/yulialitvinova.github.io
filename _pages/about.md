@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an IMPRS-IS PhD scholar jointly supervised by Dr. Ksenia Keplinger (leader of the “Organizational Leadership & Diversity” researchgroup) at the [Max Planck Institute for Intelligent Systems](https://imprs.is.mpg.de/) and Dr. Michael Sedlmair (leader of the [“Visualization and Virtual/Augmented Reality”](https://www.visus.uni-stuttgart.de/) research group) at the University of Stuttgart. 
+I am an IMPRS-IS PhD scholar jointly supervised by Dr. Ksenia Keplinger (leader of the “Organizational Leadership & Diversity” research group) at the [Max Planck Institute for Intelligent Systems](https://imprs.is.mpg.de/) and Dr. Michael Sedlmair (leader of the [“Visualization and Virtual/Augmented Reality”](https://www.visus.uni-stuttgart.de/) research group) at the University of Stuttgart. 
 
 I completed my M.Sc. degree in Informatics from the [Technical University of Munich](https://www.cit.tum.de/en/cit/studies/degree-programs/master-informatics/) in the year 2020, specialising at the intersection of Machine Learning/Deep Learning and Natural Language Processing.
 
@@ -16,7 +16,7 @@ I worked as a Data Scientist in an inter-disciplinary environment, working in cl
 
 Disciplines
 ======
-Artificial Intelligence, Natual Language Processing, Computer and Society, Computing in Social science
+Artificial Intelligence, Natual Language Processing, Computer and Society, Organisational Diversity, Computing in Social science
 
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).

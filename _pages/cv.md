@@ -13,8 +13,8 @@ Download Full CV here.
 
 Education
 ======
-* Ph.D in Informatics, IMPRS-IS and University of Stuttgart, 2025 (expected)
-* M.Sc. in Informatics, Technical university of Munich, 2020
+* Ph.D. in Informatics, IMPRS-IS and University of Stuttgart, 2025 (expected)
+* M.Sc. in Informatics, Technical University of Munich, 2020
 * B.Tech. in Computer Science, Galgotias University, 2015
 
 
