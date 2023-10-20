@@ -13,9 +13,10 @@ Download Full CV here.
 
 Education
 ======
-* B.Tech. in Computer Science, Galgotias University, 2015
-* M.Ss. in Informatics, Technical university of Munich, 2020
 * Ph.D in Informatics, IMPRS-IS and University of Stuttgart, 2025 (expected)
+* M.Sc. in Informatics, Technical university of Munich, 2020
+* B.Tech. in Computer Science, Galgotias University, 2015
+
 
 Work experience
 ======
@@ -26,7 +27,7 @@ Work experience
 * Winter 2020: Data Scientist
   * IABG mbh, Munich (Germany)
   * Duties included: using NLP methods to solve problems in the field of Social Science
-  * Tools and Methods: Python, Atlassian, Flask, Gephi
+  * Tools and Methods: Python, Atlassian, Flask, Gephi, Jupyter Notebook
 
 * Fall 2020: M.Sc in Informatics
   * Technical University of Munich, Munich (Germany)

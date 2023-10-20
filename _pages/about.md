@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am an IMPRS-IS PhD scholar jointly supervised by Dr. Ksenia Keplinger (leader of the “Organizational Leadership & Diversity” researchgroup) at the [Max Planck Institute for Intelligent Systems](https://imprs.is.mpg.de/) and Dr. Michael Sedlmair (leader of the [“Visualization and Virtual/Augmented Reality”](https://www.visus.uni-stuttgart.de/) research group) at the University of Stuttgart. I completed my M.Sc. degree in Informatics from the [Technical University of Munich](https://www.cit.tum.de/en/cit/studies/degree-programs/master-informatics/) in the year 2020, specialising at the intersection of Machine Learning/Deep Learning and Natural Language Processing.
+I am an IMPRS-IS PhD scholar jointly supervised by Dr. Ksenia Keplinger (leader of the “Organizational Leadership & Diversity” researchgroup) at the [Max Planck Institute for Intelligent Systems](https://imprs.is.mpg.de/) and Dr. Michael Sedlmair (leader of the [“Visualization and Virtual/Augmented Reality”](https://www.visus.uni-stuttgart.de/) research group) at the University of Stuttgart. 
+
+I completed my M.Sc. degree in Informatics from the [Technical University of Munich](https://www.cit.tum.de/en/cit/studies/degree-programs/master-informatics/) in the year 2020, specialising at the intersection of Machine Learning/Deep Learning and Natural Language Processing.
+
 I worked as a Data Scientist in an inter-disciplinary environment, working in close collaboration with social scientists, journalists and geo-political experts. I have worked on tasks such as sentiment and stance detection, analyzing the propagation of fake news and language traits (toxicity and hate speech) among social media users, to name a few.  As a part of my work, prior to starting my research journey, I worked towards developing creative approaches with the aim to foster intercultural understanding in an interdisciplinary environment. In doing so, I realized that there exists a gap between industry expectations and academic research. As a part of my research, I wish to address this gap and am inclined on leveraging the benefits of my research in a manner that can be utilized across various domains. 
 
 Disciplines
