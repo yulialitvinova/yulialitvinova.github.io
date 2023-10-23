@@ -8,9 +8,9 @@ redirect_from:
 ---
 
 <!-- {% include base_path %} -->
-Download Full CV here.
+Download Full CV [here](https://yulialitvinova.github.io/files/2023_CV_Litvinova.pdf).
 
-
+<!--
 Education
 ======
 * Ph.D. in Informatics, IMPRS-IS and University of Stuttgart, 2025 (expected)
@@ -87,7 +87,7 @@ Blog Posts
   * Natural Language Processing Application: Earth Observation and Event Detection, read more [here](https://iabg-ai.medium.com/natural-language-processing-application-earth-observation-and-event-detection-62d7c17fe796)
 
 
-<!-- Teaching
+ Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
