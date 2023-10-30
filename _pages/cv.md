@@ -80,13 +80,13 @@ Skills and expertise
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
-
+<!--
 
 Blog Posts
 ======
   * Natural Language Processing Application: Earth Observation and Event Detection, read more [here](https://iabg-ai.medium.com/natural-language-processing-application-earth-observation-and-event-detection-62d7c17fe796)
 
-
+-->
  Teaching
 ======
   <ul>{% for post in site.teaching %}
